@@ -1,4 +1,4 @@
-# curl -u ${1} https://bitbucket-agl.absa.co.za/rest/api/1.0/projects/subv2/repos > repoinfo
+# curl -u ${1} https://bitbucket.yourcompany.co.za/rest/api/1.0/projects/subv2/repos > repoinfo
 
 #!/usr/bin/env bash
 # Written by: Bilal Jooma
