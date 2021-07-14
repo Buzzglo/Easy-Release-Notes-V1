@@ -1,4 +1,4 @@
-# curl -u ${1} https://bitbucket.yourcompany.co.za/rest/api/1.0/projects/subv2/repos > repoinfo
+# curl https://api.github.com/orgs/ORG_NAME/repos?per_page=100&page=1 > repoinfo
 
 #!/usr/bin/env bash
 # Written by: Bilal Jooma
